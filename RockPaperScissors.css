@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(155, 139, 158);
+}
+
+h1 {
+    padding-top: 50px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#buttons {
+    margin-top: 50px;
+    margin-left: 250px;
+    
+}
+
+#Rock {
+    height: 200px;
+    width: 300px;
+    background-image: url("rock.png");
+    background-size: cover;
+
+}
+
+#Paper {
+    height: 200px;
+    width: 300px;
+    background-image: url("paper.png");
+    background-size: cover;
+}
+
+#Scissors {
+    height: 200px;
+    width: 300px;
+    background-image: url("scissors.png");
+    background-size: cover;
+}
